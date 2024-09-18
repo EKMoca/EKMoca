@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on neuroscience related python projects.
 - 🤔 I’m looking for help with writing programs that use Python to interpret information retrieved through BCIs.
 - 💬 Ask me about jazz, music theory, dreams, calisthenics, hidden gems or beginner python questions.
-- 📫 How to reach me: erikkylemojica@gmail.com
+- 📫 How to reach me: erikkylemojica@protonmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can make a mean kale salad.
 
