@@ -1,10 +1,5 @@
 # About me
 
-
-**EKMoca/EKMoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python Fundamentals, understanding how to navigate BASH shell interfaces and Github basics.
 - 🌱 I’m currently a student focusing on mastery to reach a level of proficiency in software development with Launch School.
 - 👯 I’m looking to collaborate on neuroscience related python projects.
